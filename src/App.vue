@@ -152,7 +152,7 @@ html {
 * [GitHub](https://xiaohongjian1989.github.io/mutong/)
 * [GitHub](https://xiaohongjian1989.github.io/resumer/dist)
 
-> 如果你喜欢这个效果，Fork [我的项目](https://github.com/jirengu-inc/animating-resume)，打造你自己的简历！
+> 如果你喜欢这个效果，Fork [我的项目](https://github.com/xiaohongjian1989/vue-resumer)，打造你自己的简历！
 `
       }
     },
