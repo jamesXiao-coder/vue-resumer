@@ -2,7 +2,7 @@
 
 > vue的动态简历
 
-(预览)[https://xiaohongjian1989.github.io/vue-resumer/dist]
+[预览](https://xiaohongjian1989.github.io/vue-resumer/dist)
 
 ## Build Setup
 
